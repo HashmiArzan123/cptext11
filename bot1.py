@@ -46,7 +46,7 @@ bot = Client(
     "bot",
     api_id= 4942197,
     api_hash= "13248a2c551b73193969b42194023635",    
-    bot_token= "6623366359:AAFu_fZLm_ReVcRDQyskcVbxaoo3bT0Zhy0"
+    bot_token= "7132588270:AAF02z_Y-E4GBKDoWjijvaELoH2caBGkZqk"
 )
 
 @bot.on_message(
